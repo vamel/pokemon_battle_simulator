@@ -2933,7 +2933,8 @@
     {
         "Name": "Magcargo",
         "Types": [
-            "Magcargo"
+            "Fire",
+            "Rock"
         ],
         "HP": 60,
         "Attack": 50,
@@ -7294,7 +7295,8 @@
     {
         "Name": "Venipede",
         "Types": [
-            "Venipede"
+            "Bug",
+            "Poison"
         ],
         "HP": 30,
         "Attack": 45,
