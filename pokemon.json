@@ -5133,7 +5133,7 @@
     {
         "Name": "Kyogre",
         "Types": [
-            "Kyogre"
+            "Water"
         ],
         "HP": 100,
         "Attack": 100,
@@ -8250,7 +8250,7 @@
         "ID": 613
     },
     {
-        "Name": "Beartric",
+        "Name": "Beartic",
         "Types": [
             "Ice"
         ],
